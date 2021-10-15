@@ -8,7 +8,7 @@ export default function Home() {
     <div className={styles.container}>
       <Head>
         <title>Corb the Chef</title>
-        <meta name="description" content="Home of the cultural bird" />
+        <meta name="description" content="Home of the sophisticated cultured chicken." />
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
@@ -18,7 +18,7 @@ export default function Home() {
         </h1>
 
         <p className={styles.description}>
-          Home of the sophisticated cultured bird.
+          Home of the sophisticated cultured chicken.
         </p>
 
         <Image src={logo} alt="Yummy bird"></Image>
