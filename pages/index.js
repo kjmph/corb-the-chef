@@ -25,7 +25,7 @@ export default function Home() {
       </main>
 
       <footer className={styles.footer}>
-        <p>Eat that chicken, y'all</p>
+        <p>Eat that chicken, y&apos;all</p>
       </footer>
     </div>
   )
